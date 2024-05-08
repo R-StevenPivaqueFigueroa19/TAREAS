@@ -1,4 +1,4 @@
-#PROYECTO1
+<h2>PROYECTO1</h2>
 
 Estos son algunos de los temas que se reforzaron en la realizacion del proyecto 
 
