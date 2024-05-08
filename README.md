@@ -21,6 +21,7 @@ Los datos de las etiquetas (nombre de la persona) y la información adicional (c
 <h4>Funcionalidad de entrada de datos:</h4>
 Los usuarios pueden ingresar nueva información en un campo de texto en la parte inferior derecha de la interfaz. Esta información se agrega a la lista cuando se presiona la tecla "Enter".
 
-![image](https://github.com/RONALD-PIVAQUE/TAREAS/assets/168945387/db258005-18a3-460c-999a-58ea0bddd030)
+![image](https://github.com/RONALD-PIVAQUE/TAREAS/assets/168945387/2f9cdd60-ead2-4f50-a420-6b347ae67806)
+
 
 
